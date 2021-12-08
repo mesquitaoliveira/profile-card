@@ -36,6 +36,8 @@ $ cd profile-card/exampleSite/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmesquitaoliveira%2Fprofile-card)
+
 Follow the steps.
 ## Special Thanks
 - [Google Fonts](http://fonts.google.com/)
