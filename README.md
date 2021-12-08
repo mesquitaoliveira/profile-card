@@ -7,7 +7,6 @@
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card?style=for-the-badge">
  <img alt="GitHub forks" src="https://img.shields.io/github/forks/mesquitaoliveira/profile-card?style=for-the-badge">
  
- <img alt="Open VSX Rating (Stars)" src="https://img.shields.io/open-vsx/stars/mesquitaoliveira/profile-card?style=for-the-badge">
  <img alt="GitHub" src="https://img.shields.io/github/license/mesquitaoliveira/profile-card?style=for-the-badge">
 
 </p>
@@ -23,7 +22,7 @@
 ## Local development
 ```bash
 # clone the repository
-git clone git@github.com:#
+git clone https://github.com/mesquitaoliveira/profile-card.git
 
 # cd in the project directory
 $ cd profile-card/exampleSite/
