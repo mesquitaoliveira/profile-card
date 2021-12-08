@@ -36,7 +36,7 @@ $ cd profile-card/exampleSite/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmesquitaoliveira%2Fprofile-card)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmesquitaoliveira%2Fprofile-card&demo-title=Profile%20Card&demo-image=https%3A%2F%2Fgithub.com%2Fmesquitaoliveira%2Fprofile-card%2Fblob%2Fmaster%2Fimages%2Fdemo.gif)
 
 Follow the steps.
 ## Special Thanks
