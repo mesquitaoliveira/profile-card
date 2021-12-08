@@ -34,7 +34,7 @@ $ cd profile-card/exampleSite/
 
 [![Deploy toNetlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mesquitaoliveira/profile-card)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mesquitaoliveira/profile-card)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Follow the steps.
 ## Special Thanks
